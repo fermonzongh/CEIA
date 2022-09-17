@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Documents/Fernando/EspecializacionIA/aprendizaje_maquina_I-main/Clase%205/mlruns/1/d9ce5826c2124280a13e21c13edc377a/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d9ce5826c2124280a13e21c13edc377a
+run_uuid: d9ce5826c2124280a13e21c13edc377a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663431276416
+status: 1
+tags: []
+user_id: fer21
