@@ -1,5 +1,5 @@
 # Procesamiento del lenguaje natural
-
+![](./NLP.jpg)
 Este repositorio tiene una serie de desafíos para aprender procesamiento del lenguaje natural (NLP), como parte de la especialización de IA en la UBA (Universidad de Buenos Aires).
 
 ---
